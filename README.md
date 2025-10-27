@@ -1,6 +1,8 @@
-<p align="center"> <img alt="Impstation" src="https://github.com/impstation/imp-station-14/blob/master/Resources/Textures/Logo/logo.png" /></p>
+<p align="center"> <img alt="Impstation" src="https://github.com/lpsonline/funstation/blob/master/Resources/Textures/Logo/logo.png" /></p>
 
 Funstation is a fork of Impstation, created largely for fun/to make small, personal changes and mess around with adding or changing certain content while also learning a good development workflow/how to get around GitHub better. The following information relates to Imp.
+
+<p align="center"> <img alt="Impstation" src="https://github.com/impstation/imp-station-14/blob/master/Resources/Textures/Logo/logo.png" /></p>
 
 Impstation is a fork of Space Station 14, a remake of SS13 that runs on [Robust Toolbox](https://github.com/space-wizards/RobustToolbox), a homegrown engine written in C#.
 
