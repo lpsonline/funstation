@@ -1,4 +1,4 @@
-<p align="center"> <img alt="Impstation" src="https://github.com/lpsonline/funstation/blob/master/Resources/Textures/Logo/logo.png" /></p>
+<p align="center"> <img alt="Funstation" src="https://github.com/lpsonline/funstation/blob/master/Resources/Textures/Logo/logo.png" style="width:300px;" /></p>
 
 Funstation is a fork of Impstation, created largely for fun/to make small, personal changes and mess around with adding or changing certain content while also learning a good development workflow/how to get around GitHub better. The following information relates to Imp.
 
