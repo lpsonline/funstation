@@ -1,5 +1,7 @@
 <p align="center"> <img alt="Impstation" src="https://github.com/impstation/imp-station-14/blob/master/Resources/Textures/Logo/logo.png" /></p>
 
+Funstation is a fork of Impstation, created largely for fun/to make small, personal changes and mess around with adding or changing certain content. The following information relates to Imp.
+
 Impstation is a fork of Space Station 14, a remake of SS13 that runs on [Robust Toolbox](https://github.com/space-wizards/RobustToolbox), a homegrown engine written in C#.
 
 While we are not a server that allows sexual content, <b>we do not allow people under the age of 20 to play on Impstation.</b>
